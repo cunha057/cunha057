@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francisco
-- 👀 I’m interested in engineering and computers
-- 🌱 I’m currently learning how to improve my coding skills
+- 👀 I’m interested in engineering, computers and AI
+- 🌱 I’m always to improving my coding skills
 - 💞️ I’m looking to collaborate on projects of any kind related to engineering
 - 📫 How to reach me https://www.linkedin.com/in/francisco-cunha-6984bb152/
 
